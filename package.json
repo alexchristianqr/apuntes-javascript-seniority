@@ -1,0 +1,19 @@
+{
+  "name": "js-seniority",
+  "version": "1.0.0",
+  "description": "Tips de javascript para nivel Sr.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexchristianqr/js-seniority.git"
+  },
+  "author": "Alex Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexchristianqr/js-seniority/issues"
+  },
+  "homepage": "https://github.com/alexchristianqr/js-seniority#readme"
+}
