@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexchristianqr/js-seniority/issues"
   },
-  "homepage": "https://github.com/alexchristianqr/js-seniority#readme"
+  "homepage": "https://github.com/alexchristianqr/js-seniority#readme",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
 }
